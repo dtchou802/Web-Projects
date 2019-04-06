@@ -1,0 +1,15 @@
+{
+  "name": "starwarsmodule",
+  "version": "1.0.0",
+  "description": "App for searching and fetching Star Wars Planets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Chou",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^3.8.2",
+    "yargs": "^11.0.0"
+  }
+}
